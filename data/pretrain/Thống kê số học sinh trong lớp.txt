@@ -1,0 +1,34 @@
+Thống kê số học sinh trong lớp
+Gợi ý
+Tổ
+Số học sinh
+Học sinh nữ
+Học sinh nam
+Học sinh giỏi, tiên tiến
+Tổ 1
+10
+4
+6
+8 
+Tổ 2
+10
+5
+5
+10
+Tổ 3
+10
+4
+6
+7
+Tổ 4
+10
+6
+4
+7
+Tổng số học sinh trong lớp
+40
+19
+21
+32
+Vanmau.edu.vn
+Xem thêm:  Bình luận ý thơ sau đây của Tố Hữu: Ôi! Sống đẹp là thế nào hỡi bạn 
